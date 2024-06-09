@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Brawler</string>
+    <string name="top_commanders_popularity">Top commanders by popularity</string>
+    <string name="top_commanders_win_rate">Top commanders by win rate</string>
+    <string name="top_cards">Top cards</string>
+    <string name="home">Home</string>
+    <string name="commanders">Commanders</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "Mono": {
+    "w": "White",
+    "u": "Blue",
+    "b": "Black",
+    "r": "Red",
+    "g": "Green",
+    "c": "Colorless"
+  },
+  "2 Color": {
+    "wu": "Azorius",
+    "wb": "Orzhov",
+    "wr": "Boros",
+    "wg": "Selesnya",
+    "ub": "Dimir",
+    "ur": "Izzet",
+    "ug": "Simic",
+    "br": "Rakdos",
+    "bg": "Golgari",
+    "rg": "Gruul"
+  },
+  "3 Color": {
+    "wub": "Esper",
+    "wur": "Jeskai",
+    "wug": "Bant",
+    "wbr": "Mardu",
+    "wbg": "Abzan",
+    "wrg": "Naya",
+    "ubr": "Grixis",
+    "ubg": "Sultai",
+    "urg": "Temur",
+    "brg": "Jund"
+  },
+  "4+ Color": {
+    "wubg": "Witch-Maw",
+    "wurg": "Ink-Treader",
+    "wubrg": "5 Color"
+  }
+}
